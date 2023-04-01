@@ -17,6 +17,6 @@ This is the companion to our [MS Streams site](https://web.microsoftstream.com/g
 
 ###### FAQ: 
 
-1. Can people outside of Capgemini access this Organisation or its content? *No, this organisation is invite only and only those with a Capgemini email and authentication can even access the form, let alone access our content*
+1. Can people outside of Capgemini access this Organisation or its content? *No, this organisation is invite only and only those with a Capgemini email and authentication can even access the form, let alone access our content*.
 2. How can I add files or edit files in my guilds repo? *If you're a member of a guild, you should be added to that guilds team. Being part of a guilds team enables write permissions in that guilds repo, otherwise you only have read permissions. If you wish to add files or make changes, make sure to consult either Callum McGregor, Layla Abib, or your guilds designated 'GitHub lead' first.*
-3. When I first requested access I was only a member of 1 guild, I'm now a member of several, how can I be added to those guilds teams, to receive write permissions? *In this scenario you can either: refill out the access request form with the updated guilds you're a member of, or contact Callum or Layla and request this change*
+3. When I first requested access I was only a member of 1 guild, I'm now a member of several, how can I be added to those guilds teams, to receive write permissions? *In this scenario you can either: refill out the access request form with the updated guilds you're a member of, or contact Callum or Layla and request this change*.
