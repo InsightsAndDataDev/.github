@@ -2,7 +2,7 @@
 ##### Created and maintained by Callum McGregor and Layla Abib
 
 If you haven't yet, make sure to [request an invitation](https://forms.office.com/e/jiQwn0tBmX) to this Organisation <br>
-###### **You must use your Capgemini email and have 2 factor authentication enabled**
+* **You must use your Capgemini email and have 2 factor authentication enabled**
 
 This is the sister site to our [MS Streams site](https://web.microsoftstream.com/group/b6562f21-b02d-4048-9fa3-4b17322dee63?view=channels)
 
