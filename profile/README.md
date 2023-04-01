@@ -1,5 +1,5 @@
 # Welcome to the I&D Guild GitHub Organisation
-### Created and maintained by Callum McGregor and Layla Abib
+###### Created and maintained by Callum McGregor and Layla Abib
 
 If you haven't yet, make sure to [request an invitation](https://forms.office.com/e/jiQwn0tBmX) to this Organisation <br>
 **You must use your Capgemini email and have 2 factor authentication enabled**
