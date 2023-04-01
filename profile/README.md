@@ -9,11 +9,9 @@ If you haven't yet, make sure to [request an invitation](https://forms.office.co
 This is the companion to our [MS Streams site](https://web.microsoftstream.com/group/b6562f21-b02d-4048-9fa3-4b17322dee63?view=channels) where you can find >60 high quality videos from I&D's guilds.
 
 
+#### Direct all questions regarding this GitHub Organisation to Callum McGregor or Layla Abib
 
-
-Direct all questions regarding this GitHub Organisation to Callum McGregor or Layla Abib
-
-Direct all questions regarding the MS Streams site to Nathan D'Souza or Ryan Lau
+#### Direct all questions regarding the MS Streams site to Nathan D'Souza or Ryan Lau
 
 
 
