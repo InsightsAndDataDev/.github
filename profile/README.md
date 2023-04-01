@@ -1,4 +1,4 @@
-## Welcome to the I&D Guild GitHub Organisation
+# Welcome to the I&D Guild GitHub Organisation
 
 <!--
 
