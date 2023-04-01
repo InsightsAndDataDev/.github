@@ -4,13 +4,13 @@
 If you haven't yet, make sure to [request an invitation](https://forms.office.com/e/jiQwn0tBmX) to this Organisation <br>
 * **You must use your Capgemini email and have 2 factor authentication enabled**
 
-This is the sister site to our [MS Streams site](https://web.microsoftstream.com/group/b6562f21-b02d-4048-9fa3-4b17322dee63?view=channels)
+This is the companion to our [MS Streams site](https://web.microsoftstream.com/group/b6562f21-b02d-4048-9fa3-4b17322dee63?view=channels) where you can find >60 high quality videos from I&D's guilds.
+
+Feel free to check out what other guilds have been getting up to, using the code in each guilds dedicated repo, and learn more by watching the recording on the Streams site.
 
 
-<!--
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Direct all questions regarding this GitHub Organisation to Callum McGregor or Layla Abib
+
+Direct all questions regarding the MS Streams site to Nathan D'Souza or Ryan Lau
+
+######Security FAQ: 
